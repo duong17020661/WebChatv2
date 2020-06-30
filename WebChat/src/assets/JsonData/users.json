@@ -1,0 +1,14 @@
+[{
+    "id": 1,
+    "name": "Terrance Orta",
+    "lastMessage": "770-504-2217",
+    "photo": "https://randomuser.me/api/portraits/men/27.jpg",
+    "status": true
+}, 
+{
+    "id": 2,
+    "name": "Richard Mahoney",
+    "lastMessage": "770-504-2217",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "status": false
+}]

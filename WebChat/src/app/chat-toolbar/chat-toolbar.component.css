@@ -1,0 +1,48 @@
+.toolbar {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+#icon_info {
+  margin-left: auto;
+  order: 2;
+}
+#info1 {
+  margin-right: 16px;
+}
+#info2 {
+  margin-right: 16px;
+}
+#info3 {
+  margin-right: 16px;
+}
+#info {
+  display: flex;
+  margin-left: 8px;
+}
+#name_status {
+  margin-left: 8px;
+}
+#avatar {
+  margin-left: 16px;
+  margin-right: 8px;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
+
+#c3 {
+  background-color: #f8f8f8;
+  position: relative;
+  float: right;
+  width: 25%;
+  height: 84vh;
+}
+#c4 {
+  background-color: white ;
+  position: relative;
+  width: 75%;
+  height: 84vh;
+}

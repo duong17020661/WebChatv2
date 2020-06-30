@@ -1,0 +1,69 @@
+.main_user_list {
+    left: 0;
+    max-width: 100%;
+}
+.search {
+    display: flex;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    align-items: center;
+    justify-content: center;
+}
+.search_button {
+    background-color: rgba(255, 255, 255, 0);
+    color: #f8f8f8;
+    width: 75%;
+    height: 32px;
+    overflow: hidden;
+    margin-right: 24px;
+    border-style: none none solid none;
+}
+.add_button {
+    background-color: #2196f3;
+    border-radius: 4px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+#user{
+    display: flex;
+    background-color: #0a1d3b;
+    position: relative;
+    width: 100%;
+    height: 60px;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.list #user p {
+    margin-left: 16px;
+}
+.list #user h4 {
+    margin-left: 16px;
+}
+.list_users{
+    background-color: white;
+}
+.status {
+    position: absolute;
+    background-color: #48bb56;
+    border-radius: 50%;
+    border: 1px solid #0a1d3b;
+    width: 14px;
+    height: 14px;
+    overflow: hidden;
+    top: 35px;
+    left: 43px;
+    z-index: 2;
+}
+.time {
+    float: right;
+}
+
+#user:hover {
+    background-color: #0a2d3b;
+    border-left: 5px solid red;
+}
+.info {
+    display: flex;
+}
